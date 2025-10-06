@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>AutoInstall</key>
+		<array>
+			<string>http://apt.saurik.com/cydia-3.7/debs/openssl_0.9.8k-9_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/curl_7.19.4-6_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/apt7-lib_0.7.25.3-9_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/apt7-ssl_0.7.25.3-3_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/berkeleydb_4.6.21-4_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/apt7_0.7.25.3-6_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/adv-cmds_119-5_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/coreutils_7.4-11_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/gettext_0.17-6_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/inetutils_1.6-8_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/less_418-3_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/nano_2.0.7-5_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/network-cmds_307.0.1-6_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/openssh_5.8p1-9_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/sqlite3-lib_3.5.9-1_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/unzip_5.52-5_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/zip_2.32-5_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/mobilesubstrate_0.9.3367+6.g629fcfa_iphoneos-arm.deb</string>
+			<string>http://apt.awkwardtv.org/pool/main/beigelist_1.0-1_iphoneos-arm.deb</string>
+			<string>http://dl.dropbox.com/u/16129573/com.nito.deb</string>
+			<string>http://nitosoft.com/cydia/deb/org.tomcool.smframework_0.7.2b-6_iphoneos-arm.deb</string>
+			<string>http://nitosoft.com/cydia/deb/com.nito.nitotv_0.6.6-2_iphoneos-arm.deb</string>
+			<string>http://dl.dropbox.com/u/16129573/awkwardtv.deb</string>
+			<string>http://nitosoft.com/cydia/deb/com.nito.gs_0.1-2_iphoneos-arm.deb</string>
+			<string>http://nitosoft.com/cydia/deb/com.whatanutbar.exposed._0.5_iphoneos-arm.deb</string>
+			<string>http://nitosoft.com/cydia/deb/org.xbmc.repo_0.1-1_iphoneos-arm.deb</string>
+			<string>http://apt.saurik.com/cydia-3.7/debs/syslogd_1.0.2586-1_iphoneos-arm.deb</string>
+		</array>
+		<key>imageUrl</key>
+		<string>http://nitosoft.com/ATV2/gp/ssh.png</string>
+		<key>name</key>
+		<string>Cydia Payload</string>
+		<key>displayName</key>
+		<string>Cydia Payload</string>
+		<key>description</key>
+		<string>Cydia payload including SSH</string>
+		<key>url</key>
+		<string>http://cache.saurik.com/greenpois0n/cydia.tgz</string>
+		<key>version</key>
+		<string>1.0</string>
+	</dict>
+</array>
+</plist>
