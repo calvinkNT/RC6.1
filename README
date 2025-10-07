@@ -1,8 +1,4 @@
-Greenpois0n extd.
-
 This repository contains a patched version of the greenpois0n RC6.1 jailbreak tool. The patch modifies the "Loader" app to download Cydia and other necessary assets from this GitHub repository instead of the original servers, nitohost and saurik.
-
-No software lasts forever. By hosting these assets here, this project aims to extend the life of greenpois0n by archiving what's needed before it's gone.
 
 * The compiled utility is available in the Releases tab.
 * You may need to install network certificates at http://tlsroot.litten.ca before jailbreaking, in order for the iDevice's Loader app to connect to GitHub and download the required files.
